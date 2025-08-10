@@ -1,4 +1,3 @@
-
 let products = [
   {
     productPhoto: "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/r/7/z/1-fk-183bdtgch-timewear-men-original-imahb5w5nwjyqvuk.jpeg?q=70",
@@ -118,3 +117,4 @@ document.querySelectorAll("#categoryList li").forEach(li => {
     filterProducts();
   });
 });
+
