@@ -1,0 +1,23 @@
+
+
+ul{
+    list-style: none;
+    width:300px;
+}
+ul li{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid;
+    background-color: gold;
+    color: white;
+}
+
+
+ul .completed{
+    text-decoration: line-through;
+}
+ul .delete{
+    color: red;
+    padding: 0px  40px;
+    cursor: pointer;
+}
